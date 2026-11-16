@@ -1,6 +1,6 @@
 # minobox-demo-files
 
-[minoBox](https://github.com/b-hamo/host_control) 시연용 **무해한** 파일입니다. 실제 악성 코드가 아닙니다.
+minoBox 시연용 **무해한** 파일입니다. 실제 악성 코드가 아닙니다.
 
 ## QuoteViewer_Setup.exe
 
